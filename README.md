@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanmay Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-[<img src="https://assets.pinterest.com/ext/embed.html?id=977351556626199308" height="318" width="345" frameborder="0" scrolling="no" ></img>](https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-4375641-3645911.mp4)
+<img src="https://assets.pinterest.com/ext/embed.html?id=977351556626199308" height="318" width="345" frameborder="0" scrolling="no" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmaydev56&label=Profile%20views&color=0e75b6&style=flat" alt="tanmaydev56" /> </p>
 
