@@ -12,8 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Websites**
 
-- 👨‍💻 All of my projects are available at [https://3-d-portfolio1-mw4m.vercel.app/](https://3-d-portfolio1-mw4m.vercel.app/](https://portfolio-3-d-ivory.vercel.app/))
-
+- 👨‍💻 All of my projects are available at [https://portfolio-3-d-ivory.vercel.app/]
 - 💬 Ask me about **react , vue, Framer motion**
 
 - 📫 How to reach me **tanmaysharma763@gmail.com**
