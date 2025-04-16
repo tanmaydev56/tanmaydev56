@@ -2,17 +2,10 @@
 
 ## 🎶 Currently Loving This Album
 
-<iframe 
-  style="border-radius:12px; margin: 16px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.2)"
-  src="https://open.spotify.com/embed/album/6sUOosXuYt0oUeczJRbedZ?utm_source=generator&theme=0" 
-  width="100%" 
-  height="352" 
-  frameborder="0" 
-  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-  loading="lazy">
-</iframe>
+[![Spotify](https://img.shields.io/badge/Now%20Playing-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ)
 
-[🔗 Open in Spotify](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | [🎵 More music recommendations](#)
+> *“Currently vibing to some great tunes!”*
+
 
 ---
 
