@@ -82,6 +82,4 @@
 - � Hidden Talent: Making complex concepts sound simple
 - 🏆 Life Goal: To build something that makes people say "Wow!"
 
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31kz6v7h5q5j2x7n5v3q5q5q5q5q&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing"/>
-</div>
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&redirect=true)
