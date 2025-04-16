@@ -1,4 +1,17 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://portfolio-3-d-ivory.vercel.app/)
+## 🎶 Currently Loving This Album
+<iframe 
+  style="border-radius:12px; margin: 16px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.2)"
+  src="https://open.spotify.com/embed/album/6sUOosXuYt0oUeczJRbedZ?utm_source=generator&theme=0" 
+  width="100%" 
+  height="352" 
+  frameborder="0" 
+  allowfullscreen="" 
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+  loading="lazy">
+</iframe>
+
+[🔗 Open in Spotify](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | [🎵 More music recommendations](#)
 
 <h1 align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Tanmay+Sharma;Frontend+Developer;React+%7C+Vue+%7C+Next.js" alt="Typing SVG" />
@@ -82,16 +95,4 @@
 - � Hidden Talent: Making complex concepts sound simple
 - 🏆 Life Goal: To build something that makes people say "Wow!"
 
-## 🎶 Currently Loving This Album
-<iframe 
-  style="border-radius:12px; margin: 16px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.2)"
-  src="https://open.spotify.com/embed/album/6sUOosXuYt0oUeczJRbedZ?utm_source=generator&theme=0" 
-  width="100%" 
-  height="352" 
-  frameborder="0" 
-  allowfullscreen="" 
-  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-  loading="lazy">
-</iframe>
 
-[🔗 Open in Spotify](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | [🎵 More music recommendations](#)
