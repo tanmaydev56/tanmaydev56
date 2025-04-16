@@ -84,24 +84,26 @@
 - 🎙️ Hidden Talent: Making complex concepts sound simple  
 - 🏆 Life Goal: To build something that makes people say "Wow!"
 
-## 🎧 Current Musical Obsession
+## 🎵 Current Musical Vibes
 
-[![Spotify Now Playing](https://img.shields.io/badge/🎵_Currently_Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=191414&color=1DB954)](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ)
+[![Spotify Album Cover](https://img.shields.io/badge/🎧_Now_Listening-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=191414)](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ)
 
-<div align="center">
-  <blockquote style="border-left: 3px solid #1DB954; padding-left: 15px; font-style: italic; color: #666;">
-    "Vibing to this album while coding my next project!"
-  </blockquote>
-  
-  <iframe style="border-radius: 15px; box-shadow: 0 8px 16px rgba(29, 185, 84, 0.2); margin: 20px 0;" src="https://open.spotify.com/embed/album/6sUOosXuYt0oUeczJRbedZ?utm_source=generator&theme=0" width="80%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-  
-  <p>
-    <a href="https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ" target="_blank">
-      <img src="https://img.shields.io/badge/Listen_on_Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Listen on Spotify">
-    </a>
-    <a href="#music-recommendations" style="margin-left: 10px;">
-      <img src="https://img.shields.io/badge/More_Recommendations-FF6B6B?style=flat-square" alt="More recommendations">
-    </a>
-  </p>
-</div>
+> *"Coding soundtrack of the day - this album has the perfect rhythm for debugging!"*
 
+<p align="center">
+  <a href="https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ" target="_blank">
+    <img alt="Listen on Spotify" src="https://img.shields.io/badge/🔊_Full_Album_on_Spotify-1DB954?style=flat-square&logo=spotify">
+  </a>
+  <a href="#music" style="margin-left: 8px;">
+    <img alt="More Music" src="https://img.shields.io/badge/🎶_More_Tunes-FF7139?style=flat-square">
+  </a>
+</p>
+
+---
+
+### 🎼 Track Highlights
+1. **Favorite Song 1** - *3:45*
+2. **Standout Track** - *4:12* (current obsession!)
+3. **Perfect Coding Beat** - *5:30*
+
+[![View All Tracks](https://img.shields.io/badge/VIEW_FULL_TRACKLIST-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ)
