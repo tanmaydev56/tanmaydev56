@@ -82,4 +82,16 @@
 - � Hidden Talent: Making complex concepts sound simple
 - 🏆 Life Goal: To build something that makes people say "Wow!"
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&redirect=true)
+## 🎶 Currently Loving This Album
+<iframe 
+  style="border-radius:12px; margin: 16px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.2)"
+  src="https://open.spotify.com/embed/album/6sUOosXuYt0oUeczJRbedZ?utm_source=generator&theme=0" 
+  width="100%" 
+  height="352" 
+  frameborder="0" 
+  allowfullscreen="" 
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+  loading="lazy">
+</iframe>
+
+[🔗 Open in Spotify](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | [🎵 More music recommendations](#)
