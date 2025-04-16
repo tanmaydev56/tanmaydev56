@@ -1,4 +1,5 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://portfolio-3-d-ivory.vercel.app/)
+
 ## 🎶 Currently Loving This Album
 
 <iframe 
@@ -7,12 +8,13 @@
   width="100%" 
   height="352" 
   frameborder="0" 
-  allowfullscreen="" 
   allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
   loading="lazy">
 </iframe>
 
 [🔗 Open in Spotify](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | [🎵 More music recommendations](#)
+
+---
 
 <h1 align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Tanmay+Sharma;Frontend+Developer;React+%7C+Vue+%7C+Next.js" alt="Typing SVG" />
@@ -25,13 +27,13 @@
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Open+to+collaborations;Always+learning+new+tech;Coffee+%3D+Superpower" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Open+to+collaborations;Always+learning+new+tech;Coffee+%3D+Superpower" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🔥 Current Focus
-- 🚀 Building **Valsco Website** with modern frontend stack
+- 🚀 Building **Valsco Website** with a modern frontend stack
 - 🌱 Mastering **Next.js, Framer Motion, GSAP animations**
 - 💡 Exploring **3D web experiences with Three.js**
 
@@ -74,7 +76,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/tanmay sharma" target="_blank">
+  <a href="https://linkedin.com/in/tanmay-sharma" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/tanmay_._._17" target="_blank">
@@ -91,9 +93,7 @@
 ---
 
 ### 🎯 Fun Facts
-- 😄 Pronouns: He/Him
-- ⚡ Secret Power: Can debug CSS while half-asleep
-- � Hidden Talent: Making complex concepts sound simple
+- 😄 Pronouns: He/Him  
+- ⚡ Secret Power: Can debug CSS while half-asleep  
+- 🎙️ Hidden Talent: Making complex concepts sound simple  
 - 🏆 Life Goal: To build something that makes people say "Wow!"
-
-
