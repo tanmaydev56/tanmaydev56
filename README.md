@@ -80,32 +80,5 @@
 
 ---
 
-### 🎯 Fun Facts
-- 😄 Pronouns: He/Him  
-- ⚡ Secret Power: Can debug CSS while half-asleep  
-- 🎙️ Hidden Talent: Making complex concepts sound simple  
-- 🏆 Life Goal: To build something that makes people say "Wow!"
 
-## 🎵 Current Musical Vibes
 
-[![Spotify Album Cover](https://img.shields.io/badge/🎧_Now_Listening-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=191414)](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ)
-
-> *"Coding soundtrack of the day - this album has the perfect rhythm for debugging!"*
-
-<p align="center">
-  <a href="https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ" target="_blank">
-    <img alt="Listen on Spotify" src="https://img.shields.io/badge/🔊_Full_Album_on_Spotify-1DB954?style=flat-square&logo=spotify">
-  </a>
-  <a href="#music" style="margin-left: 8px;">
-    <img alt="More Music" src="https://img.shields.io/badge/🎶_More_Tunes-FF7139?style=flat-square">
-  </a>
-</p>
-
----
-
-### 🎼 Track Highlights
-1. **Favorite Song 1** - *3:45*
-2. **Standout Track** - *4:12* (current obsession!)
-3. **Perfect Coding Beat** - *5:30*
-
-[![View All Tracks](https://img.shields.io/badge/VIEW_FULL_TRACKLIST-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ)
